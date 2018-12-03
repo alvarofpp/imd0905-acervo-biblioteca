@@ -24,5 +24,5 @@ Divisão do trabalho:
 
 - Álvaro Ferreira Pires de Paiva: responsável por realizar a análise do mês com maior número de emprestimos, além de observar a ocorrência de perda de livros.
 - André Ricardo Cândido Silva: responsável por observar os livros mais e menos emprestados e realizar a criação de mapas de palavras tomando por base os assuntos dos livros.
-- Igor Barbosa Nogueira:
+- Igor Barbosa Nogueira: responsável por identificar os 5 livros mais pegos por alunos do curso de Tecnologia da Informação.
 - Patricia Sayonara Góes de Araújo: responsável por realizar as distribuições de empréstimo por vinculo institucional e por discentes ingressantes. Além disso, realizou a analise da renovação de empréstimos, dos materiais do acervo por tipo.
